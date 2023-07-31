@@ -1,0 +1,10 @@
+body {
+    background-color: hsl(0, 0%, 94%);
+    font-family: "Poppins";
+}
+
+.container{
+    background-color: aquamarine;
+    top: 50%;
+    left: 50%;
+}
